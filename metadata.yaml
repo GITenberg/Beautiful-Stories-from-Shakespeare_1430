@@ -1,0 +1,58 @@
+_repo: Beautiful-Stories-from-Shakespeare_1430
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Shakespeare, William
+    aliases:
+    - Shakspere, William
+    - Shakspeare, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+  - agent_name: Nesbit, E. (Edith)
+    aliases:
+    - Bland, Edith Nesbit
+    - Nesbit, Edith
+    birthdate: 1858
+    deathdate: 1924
+    gutenberg_agent_id: '407'
+    url: http://www.gutenberg.org/2009/agents/407
+    wikipedia: http://en.wikipedia.org/wiki/E._Nesbit
+description: "Beautiful Stories from Shakespeare is a collection published by [E.\
+  \ Nesbit] with the intention of entertaining young readers and telling William Shakespeare's\
+  \ plays in a way they could be easily understood. She included a brief Shakespeare\
+  \ biography, a pronunciation guide to some of the more difficult names and a list\
+  \ of famous quotations, arranged by subject.\nA Midsummer Night's Dream\nThe Tempest\n\
+  As You Like It\nThe Winter's Tale\nKing Lear\nTwelfth Night\nMuch Ado About Nothing\n\
+  Romeo and Juliet\nPericles\nHamlet\nCymbeline\nMacbeth\nThe Comedy of Errors\nThe\
+  \ Merchant of Venice\nTimon of Athens\nOthello\nThe Taming of the Shrew\nMeasure\
+  \ for Measure\nTwo Gentlemen of Verona\nAll's Well That Ends Well\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '1998-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1430'
+  wikidata: Q4877815
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s literature'
+- !lcsh 'Shakespeare, William, 1564-1616 -- Stories, plots, etc. -- Juvenile literature'
+- GITenberg
+tableOfContents: Preface -- A brief life of Shakespeare -- A midsummer night's dream
+  -- The tempest -- As you like it -- The winter's tale -- King Lear -- Twelfth night
+  -- Much ado about nothing -- Romeo and Juliet -- Pericles -- Hamlet -- Cymbeline
+  -- Macbeth -- The comedy of errors -- The merchant of Venice -- Timon of Athens
+  -- Othello -- The taming of the shrew -- Measure for measure -- Two gentlemen of
+  Verona -- All's well that ends well -- Pronouncing vocabulary of names -- Quotations
+  from Shakespeare.
+title: Beautiful Stories from Shakespeare
+url: http://www.gutenberg.org/ebooks/1430
+wikipedia:
+- https://en.wikipedia.org/wiki/Beautiful_Stories_from_Shakespeare
